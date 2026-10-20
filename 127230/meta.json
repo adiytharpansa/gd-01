@@ -1,0 +1,36 @@
+{
+ "anilistId": 127230,
+ "slug": "chainsaw-man",
+ "judul": {
+  "utama": "Chainsaw Man",
+  "romaji": "chainsaw man",
+  "native": "チェンソーマン"
+ },
+ "deskripsi": {
+  "id": null,
+  "en": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he has been living a rock-bottom life while repaying his debt by harvesting devil corpses with Pochita.\n\n\nOne day, Denji is betrayed and killed. As his consciousness fades, he makes a contract with Pochita and gets revived as \"Chainsaw Man\" — a man with a devil's heart.\n\n\n\n(Source: Crunchyroll)"
+ },
+ "rating": {
+  "skor": 8.3,
+  "suara": 54354,
+  "sumberSkor": "katalog"
+ },
+ "genre": [
+  "Action",
+  "Drama",
+  "Horror",
+  "Supernatural"
+ ],
+ "tahun": 2022,
+ "musim": "FALL",
+ "status": "FINISHED",
+ "totalEpisode": 12,
+ "format": "TV",
+ "durasiMenit": 25,
+ "studio": "MAPPA",
+ "dibekukanPada": "2026-10-20T19:35:15.301Z",
+ "sumber": {
+  "katalog": true,
+  "pengisiCelah": "kitsu"
+ }
+}
